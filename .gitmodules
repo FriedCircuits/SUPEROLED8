@@ -1,0 +1,3 @@
+[submodule "Firmware/libraries/AnalogButtons"]
+	path = Firmware/libraries/AnalogButtons
+	url = git://github.com/rlogiacco/AnalogButtons.git
